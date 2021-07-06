@@ -1,0 +1,25 @@
+body {
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+h1 {
+    font size: 100px;
+}
+
+.color-change {
+    color: coral;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-right: 5%;
+    padding-top: 3%;
+}
+
+.half-widht img {
+    width: 10%;
+}
